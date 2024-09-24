@@ -270,6 +270,8 @@ main .section.highlight {
 
 h2, h3 {
     text-align: center !important;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .center {
