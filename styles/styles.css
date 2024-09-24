@@ -268,4 +268,8 @@ main .section.highlight {
     color: #FFF !important;
 }
 
+h2, h3 {
+    text-align: center !important;
+}
+
 
