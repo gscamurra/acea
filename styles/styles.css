@@ -261,6 +261,8 @@ main .section.highlight {
 .section.orange {
     background: linear-gradient(218deg, #f90, #de4b00);
     color: #FFF;
+    margin-top: 150px;
+    margin-bottom: 150px;
 }
 
 .button-container .button, .button-container .button:hover {
