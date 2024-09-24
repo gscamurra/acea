@@ -264,8 +264,8 @@ main .section.highlight {
 }
 
 .button-container .button, .button-container .button:hover {
-    background-color: #e84e0f;
-    color: #FFF;
+    background-color: #e84e0f !important;
+    color: #FFF !important;
 }
 
 
