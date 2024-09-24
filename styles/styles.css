@@ -255,3 +255,11 @@ main .section.highlight {
   margin: 0;
   padding: 40px 0;
 }
+
+/* CUSTOM */
+
+.section.orange {
+    background: linear-gradient(218deg, #f90, #de4b00);
+    color: #FFF;
+}
+
